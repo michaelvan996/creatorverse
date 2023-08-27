@@ -29,6 +29,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+
 ![Creatorverse (resized)](https://github.com/michaelvan996/creatorversePrep/blob/main/creatorversePrep.gif)
 Link to imgur: https://imgur.com/roTyViI
 
