@@ -33,10 +33,10 @@ Here's a walkthrough of implemented required features:
 Link to imgur: https://imgur.com/roTyViI
 
 ## Notes
-- Initial steps to access databse were difficult, such as reading from and writing to Supabase
-- Passing information between props took was a bit troublesome
-- Designing the CSS for cards and individual creator pages took a while to get right
-- Learning for the first time routing and redirects was tricky, but I thought it was pretty cool once it was set up
+- Initially, I encountered challenges when trying to access the database, both in terms of reading from it and writing to Supabase.
+- It was somewhat tricky to efficiently pass information between props.
+- Crafting the CSS for cards and individual creator pages proved to be a time-consuming process before achieving the desired result.
+- My initial experience with routing and implementing redirects was a bit challenging, but I found it quite fascinating once I had it all set up.
 
 ## License
 Copyright [2023] [Michael Van]
