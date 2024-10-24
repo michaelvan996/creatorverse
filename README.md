@@ -1,10 +1,8 @@
 # *CreatorVerse*
 
-Submitted by: **Michael Van**
+Created by: **Michael Van**
 
 About this web app: **CreatorVerse is a platform that allows users to curate and manage a gallery of content creators they admire. This versatile application includes a frontend capable of interfacing with an API and facilitates Create, Read, Update, and Delete (CRUD) actions on a Supabase database.**
-
-Time spent: **20** hours
 
 ## Features
 
