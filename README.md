@@ -17,9 +17,6 @@ Time spent: **20** hours
 - [X] **The user can edit a content creator to change their name, url, or description**
 - [X] **The user can delete a content creator**
 - [X] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
-
-The following **optional** features are implemented:
-
 - [X] Picocss is used to style HTML elements
 - [X] The content creator items are displayed in a creative format, like cards instead of a list
 - [X] An image of each content creator is shown on their content creator card
